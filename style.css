@@ -1,0 +1,9 @@
+#searchContainer{
+    text-align: center;
+    margin-top:20px;
+    padding: 10px 20px;
+}
+#searchBtn{
+    background-color: orangered;
+    color:white;
+}
